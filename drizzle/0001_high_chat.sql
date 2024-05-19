@@ -1,0 +1,1 @@
+ALTER TABLE "aquarium_users" RENAME TO "toggle_words";

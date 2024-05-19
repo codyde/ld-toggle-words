@@ -1,0 +1,1 @@
+ALTER TABLE "toggle_words" RENAME TO "togglewords";
